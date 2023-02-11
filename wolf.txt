@@ -2,3 +2,4 @@ name:jin
 age:56
 size:170cm
 weight:78kg
+memo: 2023-02-11 foxnwolf@gmail.com 에서 update
